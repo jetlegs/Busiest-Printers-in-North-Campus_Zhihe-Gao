@@ -1,0 +1,101 @@
+,Printer Name,Color Pages,Grayscale Pages,Duplex Pages,Simplex Pages,Total Printed Pages,Jobs,Avg. Pages,Location / Department
+0,m-dc-1485-bwmulti-1,0,163388,120824,42564,163388,24922,6.6,1st Floor-Near DC Information Desk
+1,m-pier-1c01-bw-1b,0,88172,65833,22339,88172,14088,6.3,Pierpont Commons Rm 1C01
+2,m-dc-1485-color-1,87606,97,53128,34575,87703,15009,5.8,1st Floor-Near DC Information Desk
+3,m-burs-4051-bw-1,0,87623,73444,14179,87623,14138,6.2,Bursley Hall Rm 4051
+4,m-pier-1c01-bw-1a,0,86463,64889,21574,86463,14115,6.1,Pierpont Commons Rm 1C01
+5,m-dc-2450c-bwmulti-1,0,79412,60100,19312,79412,11663,6.8,2nd Floor Circulation Desk
+6,m-burs-2322-bw-1b,0,75192,61436,13756,75192,11839,6.4,Bursley Hall Rm 2322
+7,m-burs-2322-bw-1a,0,74555,61389,13166,74555,11816,6.3,Bursley Hall Rm 2322
+8,m-eecs-1230-bw-1a,0,73288,54607,18681,73288,11167,6.6,Electrical Engineering and Computer Science Building Rm 1230
+9,m-eecs-1230-bw-1b,0,73044,56220,16824,73044,11109,6.6,Electrical Engineering and Computer Science Building Rm 1230
+10,m-bystr-1695-bw-1b,0,72043,57026,15017,72043,9892,7.3,Bob and Betty Beyster Building Rm 1695
+11,m-fxb-2038-bw-1,0,64309,50498,13811,64309,8360,7.7,Francois-Xavier Bagnoud Building Rm 2038
+12,m-dc-2c42-bwmulti-1,0,59858,48270,11588,59858,8452,7.1,2nd Floor East in Study Area
+13,m-dc-2450c-bw-1b,0,57340,45268,12072,57340,8241,7.0,2nd Floor Circulation Desk
+14,m-sm-1280-bw-1b,0,55536,35035,20501,55536,9697,5.7,
+15,m-sm-1280-bw-1a,0,55221,34872,20349,55221,9337,5.9,
+16,m-dc-2450c-bw-1a,0,54792,43474,11318,54792,7912,6.9,2nd Floor Circulation Desk
+17,m-bystr-1695-bw-1a,0,54702,43796,10906,54702,7604,7.2,Bob and Betty Beyster Building Rm 1695
+18,m-aab-3100-bwmulti-1b,0,54124,36386,17738,54124,12317,4.4,Art Architecture Building Rm 3100
+19,m-dc-3200-bw-1b,0,50722,40258,10464,50722,7476,6.8,Duderstadt Center Rm 3200
+20,m-aab-3100-bwmulti-1a,0,48637,33113,15524,48637,11271,4.3,Art Architecture Building Rm 3100
+21,m-dc-3200-bw-1a,0,48550,38722,9828,48550,7433,6.5,Duderstadt Center Rm 3200
+22,m-bystr-1620-bw-1a,0,48266,36733,11533,48266,6642,7.3,Bob and Betty Beyster Building Rm 1620
+23,m-nw498-1000-bw-1a,0,48129,39097,9032,48129,7333,6.6,Cram Place Community Center Rm 1000
+24,m-aab-3158-bwmulti-1b,0,47542,32642,14900,47542,9739,4.9,Art Architecture Building Rm 3158
+25,m-eecs-1230-bw-1a,0,46852,35336,11516,46852,7509,6.2,
+26,m-dc-b430-bwmulti-1,0,45257,33728,11529,45257,7055,6.4,Basement North by CVGA
+27,m-sm-1050-bwmulti-1,0,45126,27368,17758,45126,8527,5.3,
+28,m-dc-3400-bw-1b,0,45125,35588,9537,45125,6739,6.7,
+29,m-dc-3400-bw-1a,0,45099,35686,9413,45099,6937,6.5,
+30,m-dc-2330-bw-1a,0,45028,34498,10530,45028,6677,6.7,Duderstadt Center Rm 2330
+31,m-eecs-1230-bw-1b,0,44910,34142,10768,44910,7473,6.0,
+32,m-aab-3100-color-1,44057,10,13899,30168,44067,16941,2.6,Art Architecture Building Rm 3100
+33,m-dc-2330-bw-1b,0,43292,33823,9469,43292,6169,7.0,Duderstadt Center Rm 2330
+34,m-aab-2c05-bw-1,0,42973,26744,16229,42973,10652,4.0,Art Architecture Building Rm 2C05
+35,m-dc-3400-bw-1a,0,42799,34044,8755,42799,6252,6.8,Duderstadt Center Rm 3400
+36,m-bystr-1620-bw-1b,0,42455,32877,9578,42455,5737,7.4,Bob and Betty Beyster Building Rm 1620
+37,m-dc-3200-bw-1b,0,42425,34728,7697,42425,6019,7.0,
+38,m-dc-3400-bw-1b,0,41549,33192,8357,41549,6009,6.9,Duderstadt Center Rm 3400
+39,m-vbcmn-1000-bw-1b,0,41463,35250,6213,41463,6922,6.0,Baits Vera II Coman House Rm 1000
+40,m-aab-3158-bwmulti-1a,0,40877,27240,13637,40877,8892,4.6,Art Architecture Building Rm 3158
+41,m-vbcmn-1000-bw-1a,0,39024,32728,6296,39024,6651,5.9,Baits Vera II Coman House Rm 1000
+42,m-burs-2506-bw-1b,0,39022,32692,6330,39022,6450,6.0,Bursley Hall Rm 2506
+43,m-burs-2506-bw-1a,0,38837,33016,5821,38837,6391,6.1,Bursley Hall Rm 2506
+44,m-dc-3300-bw-1a,0,38539,30934,7605,38539,5826,6.6,Duderstadt Center Rm 3300
+45,m-sm-3239-bw-1a,0,38290,28887,9403,38290,5617,6.8,
+46,m-dc-2450c-bwmulti-1,0,37689,27493,10196,37689,5455,6.9,
+47,m-chrys-273-bw-1a,0,37634,30324,7310,37634,5745,6.6,Chrysler Center Rm 273
+48,m-dc-3300-bw-1b,0,37535,30248,7287,37535,5680,6.6,Duderstadt Center Rm 3300
+49,m-dc-3200-bw-1a,0,37398,30253,7145,37398,5809,6.4,
+50,m-dc-3370-bw-1a,0,36389,29568,6821,36389,5444,6.7,Duderstadt Center Rm 3370
+51,m-chrys-273-bw-1b,0,36184,28761,7423,36184,5665,6.4,Chrysler Center Rm 273
+52,m-dc-3370-bw-1b,0,35509,28826,6683,35509,5385,6.6,Duderstadt Center Rm 3370
+53,m-eecs-1230-color-1,34580,0,23249,11331,34580,5414,6.4,Electrical Engineering and Computer Science Building Rm 1230
+54,m-nw498-1000-bw-1b,0,33761,27114,6647,33761,5301,6.4,Cram Place Community Center Rm 1000
+55,m-sm-3239-bw-1b,0,33686,25362,8324,33686,5013,6.7,
+56,m-dc-2450c-bwmulti-2,0,32851,26171,6680,32851,4964,6.6,2nd Floor-Near Materials Collection-Atrium
+57,m-sm-1280-bw-1b,0,32848,21916,10932,32848,5634,5.8,Earl V Moore Building Rm 1280
+58,m-sm-1280-bw-1a,0,32489,20749,11740,32489,5508,5.9,Earl V Moore Building Rm 1280
+59,m-name-244-bw-1,0,32360,26238,6122,32360,5986,5.4,
+60,m-dc-b245a-bw-1,0,28790,22734,6056,28790,4468,6.4,Basement-Near Sorting Area
+61,m-dc-2c42-bwmulti-1,0,28329,23784,4545,28329,3706,7.6,
+62,m-dc-2330-color-1,27991,4,17402,10593,27995,4553,6.1,2nd Floor - SW by Study Room 1
+63,m-dc-b309a-bw-1b,0,27725,23662,4063,27725,3757,7.4,Duderstadt Center Rm B309A
+64,m-dc-b309a-bw-1a,0,27490,23350,4140,27490,3781,7.3,Duderstadt Center Rm B309A
+65,m-aab-2c05-color-1,27250,35,7653,19632,27285,11991,2.3,Art Architecture Building Rm 2C05
+66,m-aab-3158-colormulti-1,27215,19,8068,19166,27234,9721,2.8,Art Architecture Building Rm 3158
+67,m-eecs-4440-bw-1,0,26913,21714,5199,26913,3250,8.3,Electrical Engineering and Computer Science Building Rm 4440
+68,m-dc-3c33-bwmulti-1,0,26908,21449,5459,26908,4264,6.3,3rd Floor Center by Windows Training Lab
+69,m-dc-3370-bw-1a,0,26590,20840,5750,26590,4082,6.5,
+70,m-dc-2330-bw-1b,0,25242,20340,4902,25242,3562,7.1,
+71,m-dc-2330-bw-1a,0,25123,20068,5055,25123,3615,6.9,
+72,m-vbcmn-1000-bw-1a,0,24837,20688,4149,24837,4150,6.0,
+73,m-dc-3370-bw-1b,0,24500,19662,4838,24500,4167,5.9,
+74,m-dc-2c20-bw-1a,0,24202,18748,5454,24202,3446,7.0,Duderstadt Center Rm 2C20
+75,m-fxb-b085-bw-1a,0,23840,17742,6098,23840,4065,5.9,Francois-Xavier Bagnoud Building Rm b085
+76,m-pier-1c01-bw-1a,0,23736,18585,5151,23736,3407,7.0,
+77,m-fxb-b085-bw-1b,0,23644,16962,6682,23644,3726,6.3,Francois-Xavier Bagnoud Building Rm b085
+78,m-vbcmn-1000-bw-1b,0,23403,19364,4039,23403,3980,5.9,
+79,m-dc-2c20-bw-1b,0,23212,17990,5222,23212,3400,6.8,Duderstadt Center Rm 2C20
+80,m-bystr-1620-bw-1a,0,23123,18578,4545,23123,3236,7.1,
+81,m-pier-1c01-bw-1b,0,22807,17796,5011,22807,3251,7.0,
+82,m-bystr-1695-bw-1b,0,22610,16929,5681,22610,3277,6.9,
+83,m-fxb-b085-bw-1a,0,21348,16576,4772,21348,3846,5.6,
+84,m-burs-2322-bw-1a,0,21220,17666,3554,21220,3354,6.3,
+85,m-burs-2322-bw-1b,0,21025,17480,3545,21025,3235,6.5,
+86,m-gflab-224-bwmulti-1,0,20408,14134,6274,20408,3683,5.5,Gorguze Family Laboratory Rm 224
+87,m-bystr-1620-bw-1b,0,20036,15807,4229,20036,2816,7.1,
+88,m-fxb-b085-bw-1b,0,20002,15552,4450,20002,3420,5.8,
+89,m-bystr-1695-bwmulti-1,0,19668,14902,4766,19668,2791,7.0,Bob and Betty Beyster Building Rm 1695
+90,m-pier-1c01-color-1,19530,13,11709,7834,19543,3630,5.4,Pierpont Commons Rm 1C01
+91,m-ioe-g610-bw-1b,0,19523,15354,4169,19523,2812,6.9,Industrial and Operations Engineering Building Rm g610
+92,m-sm-3239-bw-1a,0,18967,14930,4037,18967,2478,7.7,Earl V Moore Building Rm 3239
+93,m-pier-1c01-color-1,18541,293,13889,4945,18834,3218,5.9,
+94,m-dc-2330-bwmulti-1,0,18539,13946,4593,18539,2878,6.4,2nd Floor - SW by Study Room 1
+95,m-dc-3300-bw-1a,0,18183,14796,3387,18183,2746,6.6,
+96,m-cool-1934-bw-1a,0,17905,13164,4741,17905,2902,6.2,Cooley Building Rm 1934
+97,m-burs-2506-bw-1b,0,17835,14880,2955,17835,2891,6.2,
+98,m-eecs-1230-color-1,17746,46,11312,6480,17792,2681,6.6,
+99,m-ewre-173-bw-1,1,17697,13793,3905,17698,2903,6.1,Environmental and Water Resources Building
